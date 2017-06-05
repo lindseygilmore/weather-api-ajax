@@ -1,0 +1,25 @@
+body {
+	font-family: 'Roboto Mono', monospace;
+	background-image: url(../images/shayne-house-203474.jpg);
+	background-size: cover;
+	color: #B2434D;
+}
+
+
+
+h1, h2, h3 {
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+
+}
+
+h2 {
+	padding-top: 250px;
+	padding-bottom: 30px;
+	text-transform: : uppercase;
+}
+
+h1 {
+	padding-bottom: 30px;
+}
